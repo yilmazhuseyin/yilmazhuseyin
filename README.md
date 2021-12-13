@@ -5,7 +5,7 @@ I recently decided to pursue my career in software development and here I am! ðŸ
 
 [Our Planet Earth](https://apps.apple.com/us/app/our-planet-earth/id1487801420)
 
-Also it's great to be back in school too! Currently, my "Associate of Science - Computer Programming" be under way.
+Also it's great to be back in school too! Currently, my "Associate of Science - Computer Programming" education be under way.
 
 Always interested in hearing from former colleagues, managers, or just interesting creative people, so feel free to contact me if you'd like to connect!
 
