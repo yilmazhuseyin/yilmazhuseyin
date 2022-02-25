@@ -1,9 +1,4 @@
 ### Hi, I am Hüseyin 👋
-For many years, I have worked as a Quality Assurance and Quality Control Engineer on $2 billion railway project in Africa.
-
-I recently decided to pursue my career in software development and here I am! I am currently working heavily on C#. I also developed an app for kids with Swift and XCode. If this interests you, you can check it from the link below. 
-
-Also it's great to be back in school too! Currently, my "Associate of Science - Computer Programming" education be under way.
 
 Always interested in hearing from former colleagues, managers, or just interesting creative people, so feel free to contact me if you'd like to connect!
 
