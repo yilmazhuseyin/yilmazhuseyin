@@ -21,8 +21,10 @@ Always interested in hearing from former colleagues, managers, or just interesti
   ---
   
  #### My Projects:
- 
-  <p align="left"> <a href="https://apps.apple.com/us/app/our-planet-earth/id1487801420" target="_blank" rel="noreferrer"> <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/c3/60/07/c3600730-7a0b-cd1f-6fdd-d4273d782510/AppIcon-1x_U007emarketing-0-10-0-85-220.png/460x0w.webp" alt="csharp" width="60" height="60"/> </a></p>  <a href="https://apps.apple.com/us/app/our-planet-earth/id1487801420" target="_blank">Our Planet Eart iOS App</a> Designed and coded by **Hüseyin Yılmaz**. 
-Software Language: **Swift**
+
+| Project Name        | Technology           | Details  |
+|:-------------:|:-------------:|:-----:|
+|<a href="https://apps.apple.com/us/app/our-planet-earth/id1487801420" target="_blank">Our Planet Eart iOS App</a>| Xcode, Swift | An iOS app. Coded and designed by me for children to know the world better.|
+|<a href="https://github.com/yilmazhuseyin/KanbanHY" target="_blank">KanbanHY</a>|C#, .NET|Kanban Board project developed with C#.|
 
   
