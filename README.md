@@ -27,7 +27,7 @@ Always interested in hearing from former colleagues, managers, or just interesti
 |<a href="https://github.com/yilmazhuseyin/KanbanHY" target="_blank">KanbanHY</a>|C#, .NET, WinForm|Pro designed and responsive Kanban Board Project.|
 |<a href="https://github.com/yilmazhuseyin/yilmazhuseyin.github.io" target="_blank">Exact Copy of a Website</a>| HTML, CSS | The project of making an exact copy of a website.|
 |<a href="https://github.com/yilmazhuseyin/AHAFit" target="_blank">AHAFit</a>|C#, .NET, WinForm, MSSQL|Detailed calorie tracking software..|
-|<a href="https://github.com/yilmazhuseyin/hackerRank" target="_blank">HackerRank Solutions</a>|C#, MSSQL, JS|My HackerRank Solutions. Every day a new solution!|
+|<a href="https://github.com/yilmazhuseyin/hackerRank" target="_blank">HackerRank Solutions</a>|C#, MSSQL, JS|My HackerRank Solutions. A new solution everyday!|
 
 
 
