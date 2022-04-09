@@ -1,7 +1,7 @@
 ### Hi, I am Hüseyin 👋
 I am a Junior Software Developer who trained for the sector-specific with applied trainings. My entire professional career has been based on problem solving and engineering. Now I continue to challenge my solution generation skills in the software development.
 
-Always interested in hearing from former colleagues, managers, or just interesting creative people, so feel free to contact me if you'd like to connect.
+Always interested in hearing from former colleagues, managers, or just interesting creative people, so feel free to contact me if you'd like to connect!
 
 ---
 
