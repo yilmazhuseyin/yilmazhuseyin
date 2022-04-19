@@ -24,6 +24,7 @@ Always interested in hearing from former colleagues, managers, or just interesti
 | Project Name        | Technology           | Details  |
 |:-------------:|:-------------:|:-----|
 |<a href="https://apps.apple.com/us/app/our-planet-earth/id1487801420" target="_blank">Our Planet Earth iOS App</a>| Xcode, Swift | An iOS app. Coded and designed by me for children to know the world better.|
+|<a href="https://github.com/yilmazhuseyin/pro-talk.net" target="_blank">ProTalk.net</a>| ASP.NET Core MVC, C#/JS/HTML/CSS/JQuery/Bootstrap, MSSQL | A Blog Website Project like Medium.com|
 |<a href="https://github.com/yilmazhuseyin/AHAFit" target="_blank">AHAFit</a>|C#, .NET, WinForm, MSSQL|Detailed calorie tracking software..|
 |<a href="https://github.com/yilmazhuseyin/hackerRank" target="_blank">HackerRank Solutions</a>|C#, MSSQL, JS|My HackerRank Solutions. A new solution everyday!|
 |<a href="https://github.com/yilmazhuseyin/KanbanHY" target="_blank">KanbanHY</a>|C#, .NET, WinForm|Pro designed and responsive Kanban Board Project.|
