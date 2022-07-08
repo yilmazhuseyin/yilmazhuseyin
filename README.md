@@ -5,7 +5,7 @@ Always interested in hearing from former colleagues, managers, or just interesti
 
 ---
 
- #### Conctact:
+ #### Contact:
 
 <p align="left"> <a href="https://www.linkedin.com/in/91hyilmaz/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/2560px-LinkedIn_Logo_2013.svg.png" alt="csharp" width="135" height=auto"/> 
  
